@@ -29,7 +29,7 @@ python = "^3.8"
 pydantic = "^1.8.0"
 
 [tool.poetry.dev-dependencies]
-black = "^22.3"
+black = "^22.6"
 blacken-docs = "^1.12.1"
 coverage = {version = "^6.4", extras = ["toml"]}
 flake8 = "^4.0.1"
