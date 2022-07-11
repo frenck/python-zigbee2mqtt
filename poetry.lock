@@ -533,7 +533,7 @@ testing = ["pytest", "pytest-benchmark"]
 
 [[package]]
 name = "pre-commit"
-version = "2.19.0"
+version = "2.20.0"
 description = "A framework for managing and maintaining multi-language pre-commit hooks."
 category = "dev"
 optional = false
@@ -909,7 +909,7 @@ pyyaml = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "a8485922b44c02d9694984518caa73f0de8fb5aea2498fce00b37ad05a6e29e8"
+content-hash = "ad934e19b75d0c273153d33de20f837c4867b6fbe7c3a3ebcfcb7a353298e4bc"
 
 [metadata.files]
 astor = []
