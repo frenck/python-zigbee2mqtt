@@ -695,7 +695,7 @@ testing = ["fields", "hunter", "process-tests", "six", "pytest-xdist", "virtuale
 
 [[package]]
 name = "pyupgrade"
-version = "2.37.0"
+version = "2.37.1"
 description = "A tool to automatically upgrade syntax for newer versions."
 category = "dev"
 optional = false
@@ -909,7 +909,7 @@ pyyaml = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "7b23e467e31aa1fc1fbc8f58cc087cab1c19ca049b3589e24d2f5af51e122daa"
+content-hash = "83a8c8c05256ff86d9ec63104a8f51240a104dd8181abc2543eec6b227ee6915"
 
 [metadata.files]
 astor = []
