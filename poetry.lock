@@ -122,13 +122,13 @@ uvloop = ["uvloop (>=0.15.2)"]
 
 [[package]]
 name = "blacken-docs"
-version = "1.13.0"
+version = "1.14.0"
 description = "Run Black on Python code blocks in documentation files."
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "blacken_docs-1.13.0-py3-none-any.whl", hash = "sha256:455388df506fca04742f36a4a3475630eb7f141cb98acc6070d3c24bcf69cdda"},
-    {file = "blacken_docs-1.13.0.tar.gz", hash = "sha256:2babba84a42fb31a1d393dcf5a9a66d9b0657bdc320aec69d9f96301501dba35"},
+    {file = "blacken_docs-1.14.0-py3-none-any.whl", hash = "sha256:fd579c07522d46dc323e4826dfaf8885637d2654936f56e71144682933598812"},
+    {file = "blacken_docs-1.14.0.tar.gz", hash = "sha256:1ddda708c9a346ebd70c758d2847b5fd35b3801780261aa23787f19eb5d4d50d"},
 ]
 
 [package.dependencies]
@@ -1520,4 +1520,4 @@ dev = ["doc8", "flake8", "flake8-import-order", "rstcheck[sphinx]", "sphinx"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "9272deb2f15564d3bd258f668f99d4586cab7b7d9b8d85f0f805c58d945c9c46"
+content-hash = "4574800eca3efff60ad0e5f1f4a20002121f10b56d83e67ec953f943c5d964f5"
