@@ -4,7 +4,7 @@ import asyncio
 from zigbee2mqtt import Zigbee2MQTT
 
 
-async def main():
+async def main() -> None:
     """Show example on using the Zigbee2MQTT client."""
     z2m = Zigbee2MQTT(
         base_topic="/zigbee2mqtt",
