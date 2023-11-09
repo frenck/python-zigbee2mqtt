@@ -25,7 +25,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.11"
-pydantic = ">=1.8,<2.0"
+pydantic = ">=2.4,<2.5"
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/frenck/python-zigbee2mqtt/issues"
