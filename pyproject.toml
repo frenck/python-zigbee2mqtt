@@ -32,7 +32,7 @@ pydantic = ">=1.8,<2.0"
 Changelog = "https://github.com/frenck/python-zigbee2mqtt/releases"
 
 [tool.poetry.dev-dependencies]
-aresponses = "2.1.6"
+aresponses = "3.0.0"
 codespell = "2.2.6"
 covdefaults = "2.3.0"
 coverage = {version = "7.4.0", extras = ["toml"]}
